@@ -6,11 +6,27 @@ body{
     background-color: rgba(37,31,33,255);
 }
 .EQSIMG{
-    width: 40%;
+    width: 500px;
     border-radius: 10px;
     margin: 10px;
     float: left;
 }
+
+.haromszazD{
+    width: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    float: right;
+    padding: 10px;
+}
+
+.legoregebb{
+    width: 500px;
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+}
+
 .szoveg{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding-left: 30px;
@@ -22,4 +38,5 @@ body{
     padding-top: 80px;
 }
 .vizkartya{
+    padding: 60px;
 }
