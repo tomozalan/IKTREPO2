@@ -1,6 +1,7 @@
 header{
     margin: auto;
     text-align: center;
+    ;
 }
 body{
     background-color: rgba(37,31,33,255);
@@ -11,6 +12,9 @@ body{
     margin: 10px;
     float: left;
     padding-top: 30px;
+}
+.feclec{
+    padding-bottom: 2000px;
 }
 
 .haromszazD{
@@ -38,8 +42,13 @@ body{
     font-size: 22px;
     text-align: center;
     margin: auto;
-    padding-top: 80px;
+    padding-top: 55px;
 }
 .vizkartya{
     padding: 60px;
+}
+.fuggkartya{
+    margin: auto;
+    text-align: center;
+    padding-left: 30px;
 }
